@@ -6,7 +6,7 @@ This code will build a virtual machine to run automated web browser tests, using
 
 ## Prerequisites - Vagrant  
 
-### Step 1: Installed Required Software
+### Step 1: Install Required Software
 
 To get [Vagrant](http://www.vagrantup.com/downloads.html) running on your system, follow these steps:
 
@@ -22,7 +22,7 @@ To keep your Vagrant Box Utilities in sync with your Virtual Box Version, instal
 
     vagrant plugin install vagrant-vbguest
 
-### Step 2: Verify the Vagrant is Installed Correctly
+#### Step 2: Verify Vagrant is Installed Correctly
 
 Verify that you have at least version 1.4 of Vagrant. Check your Vagrant version on the command line by running:
 
@@ -45,7 +45,7 @@ The output may direct you to update your plugin.  Follow the instructions on the
 
     git clone git@github.com:seanbuscay/vagrant-phpunit-selenium.git
 
-### (Optional) Step 2: Configure the Vagrant Box
+### Step 2: (Optional) Configure the Vagrant Box
 
 Open the filed named `Vagrantfile` with a text editor
 
