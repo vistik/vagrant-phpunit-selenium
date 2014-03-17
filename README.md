@@ -93,7 +93,7 @@ Upon a test failure, phpunit_selenium will snap a screenshot of what the browser
 ##### Run example WebTest2 Case
 
     cd ~/examples
-    phpunit WebTest
+    phpunit WebTest2
 
 The example test case, "WebTest2" will run one test in FireFox using the PHPUnit_Extensions_Selenium2TestCase test case with the Selenium WebDriver API.
 
