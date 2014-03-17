@@ -46,7 +46,7 @@ It will take several minutes to configure the virtual machine when running this 
 
 #### Login 
 
-After you have started the virtual machine, you may ssh into with the following command:
+After you have started the virtual machine, you may ssh into the virtual machine with the following command:
 
     vagrant ssh
 
