@@ -26,7 +26,7 @@ Modify the following line to increase the amount of memory used by the virtual m
 
 @todo - To implement 
 
-If your host operating system supports [NFS](http://en.wikipedia.org/wiki/Network_File_System_%28protocol%29) (most Macs and Linus systems do), then you can take advantage of Vagrant's support to [synced folders backed by NFS](http://docs.vagrantup.com/v2/synced-folders/nfs.html).  Uncomment the following line:
+If your host operating system supports [NFS](http://en.wikipedia.org/wiki/Network_File_System_%28protocol%29) (most Macs and Linus systems do), then you can take advantage of Vagrant's support for [synced folders backed by NFS](http://docs.vagrantup.com/v2/synced-folders/nfs.html).  To enable NFS support uncomment the following line:
 
     :nfs => true
 
