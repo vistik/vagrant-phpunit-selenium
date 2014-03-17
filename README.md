@@ -136,6 +136,13 @@ After Vagrant has been halted or suspended, it may start back up without restart
  
  Note: This issue will be addressed in a follow-up release.
 
+## Roadmap 
+
+@todo
+
+1.  Add Jenkins server
+2. 
+
 ## Prerequisites - Vagrant  
 
 #### Step 1: Install Required Software
@@ -162,3 +169,7 @@ You should see something like the text below in the list:
 `vagrant-vbguest (0.10.0)`
 
 The output may direct you to update your plugin.  Follow the instructions on the screen to do so.
+
+## Current Versions
+
+@todo
