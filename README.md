@@ -32,7 +32,7 @@ If your host operating system supports [NFS](http://en.wikipedia.org/wiki/Networ
 
 #### Step 3: Start the Vagrant Box
 
-Use the terminal to move into the directory into which you cloned in the repo.  For example:
+Use the terminal to move into the directory into which you cloned the repo.  For example:
 
     cd ~/workspace/vagrant-phpunit-selenium
 
