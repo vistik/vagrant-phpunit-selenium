@@ -18,13 +18,15 @@ Open the filed named `Vagrantfile` with a text editor.  Change the configuration
 
 ##### Increase memory
 
-Modify the following line to increase the amount of memory used by the virtual machine.  
+Modify the following line to increase the amount of memory used by the virtual machine.
 
     v.customize ["modifyvm", :id, "--memory", 1024] #1024mb memory
     
 ##### Speed up folder sharing
 
-If your host operating system support [NFS](http://en.wikipedia.org/wiki/Network_File_System_%28protocol%29) (most Macs and Linus systems do), then you can take advantage of Vagrant's support to [synced folders backed by NFS](http://docs.vagrantup.com/v2/synced-folders/nfs.html).  Uncomment the following line:
+@todo - To implement 
+
+If your host operating system supports [NFS](http://en.wikipedia.org/wiki/Network_File_System_%28protocol%29) (most Macs and Linus systems do), then you can take advantage of Vagrant's support to [synced folders backed by NFS](http://docs.vagrantup.com/v2/synced-folders/nfs.html).  Uncomment the following line:
 
     :nfs => true
 
