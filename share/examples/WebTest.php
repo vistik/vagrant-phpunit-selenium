@@ -4,7 +4,7 @@ require_once 'PHPUnit/Extensions/SeleniumTestCase.php';
 class WebTest extends PHPUnit_Extensions_SeleniumTestCase
 {
     protected $captureScreenshotOnFailure = TRUE;
-    protected $screenshotPath = '/home/vagrant';
+    protected $screenshotPath = '/vagrant';
     protected $screenshotUrl = 'http://localhost/screenshots';
     
     
