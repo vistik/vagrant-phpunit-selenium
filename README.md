@@ -1,6 +1,8 @@
-Vagrant PHPUnit and Selenium Box
+Vagrant PHPUnit and Selenium
 =========================
-*Vagrant Box for running PHPUnit_Selenium Test Cases*
+*Vagrant files to build a running PHPUnit_Selenium Test Cases*
+
+**If you'd like to just use the built box, visit: https://github.com/seanbuscay/vagrant-phpunit-selenium-box**
 
 This code will build a virtual machine to run automated web browser tests, using the [Selenium WebDriver](http://docs.seleniumhq.org/projects/webdriver/) and tests written as      [PHPUnit_Selenium Test Cases](http://phpunit.de/manual/4.0/en/selenium.html).
 
