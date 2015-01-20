@@ -174,6 +174,4 @@ You should see something like the text below in the list:
 
 The output may direct you to update your plugin.  Follow the instructions on the screen to do so.
 
-## Current Versions
-
-@todo
+http://www.dev-metal.com/how-to-setup-latest-version-of-php-5-5-on-ubuntu-12-04-lts/
